@@ -10,7 +10,6 @@
 [![Minecraft](https://img.shields.io/badge/Minecraft-26.1.x-brightgreen?style=flat-square&logo=minecraft&logoColor=white)](https://minecraft.net)
 [![Paper](https://img.shields.io/badge/Server-Paper-blue?style=flat-square)](https://papermc.io)
 [![Java](https://img.shields.io/badge/Java-21%2B-orange?style=flat-square&logo=openjdk&logoColor=white)](https://adoptium.net)
-[![License](https://img.shields.io/badge/License-LGPL--3.0-lightgrey?style=flat-square)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-1.0.0-purple?style=flat-square)]()
 
 </div>
@@ -183,11 +182,6 @@ A: No. Once the plugin is loaded and the JVM flag is set, attribute swapping wor
 
 ---
 
-## License
-
-[LGPL-3.0](LICENSE) — you may use, modify, and distribute this plugin freely, including in commercial server networks, as long as modifications to this plugin itself are shared under the same license.
-
----
 
 <div align="center">
 
