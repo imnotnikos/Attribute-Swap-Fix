@@ -1,0 +1,6 @@
+name: AttributeSwapFix
+version: 1.0.0
+main: com.imNikos.attributeswapfix.AttributeSwapFix
+api-version: "1.21"
+description: Restores vanilla attribute swapping on Paper servers.
+authors: [imNikos]
